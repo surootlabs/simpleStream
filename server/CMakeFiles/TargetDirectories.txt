@@ -1,0 +1,3 @@
+/home/josiah/coding-projects/c++/simpleStream/server/CMakeFiles/rebuild_cache.dir
+/home/josiah/coding-projects/c++/simpleStream/server/CMakeFiles/edit_cache.dir
+/home/josiah/coding-projects/c++/simpleStream/server/CMakeFiles/server.dir
