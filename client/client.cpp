@@ -1,3 +1,6 @@
+/*
+ * Client program to create a connection and do something...
+ */
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
