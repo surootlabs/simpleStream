@@ -11,7 +11,8 @@ CONTENTS OF THIS FILE
 INTRODUCTION
 ------------
 
-Current Maintainer: Josiah <rexsuroot@protonmail.com>
+Current Maintainer: Josiah (<rexsuroot@protonmail.com>)
+
 
 
 INSTALLATION
@@ -20,13 +21,22 @@ INSTALLATION
 Coming soon...
 
 
+
+STARTING THE SERVER
+----------------
+
+./server
+
+
 USING THE CLIENT
 ----------------
 
-Coming soon...
+./client <hostname>
+
 
 
 DESIGN DECISIONS
 ----------------
 
 Coming soon...
+
