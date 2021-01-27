@@ -31,7 +31,7 @@ STARTING THE SERVER
 USING THE CLIENT
 ----------------
 
-./client <hostname>
+./client [hostname]
 
 
 
